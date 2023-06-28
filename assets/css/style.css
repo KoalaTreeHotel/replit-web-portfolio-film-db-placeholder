@@ -1,0 +1,23 @@
+*,
+*::before,
+*::after {
+  /* margin: 0; 
+  padding: 0;  */
+  box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-image: url("../images/movietheater.jpg");
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+  }
+
+iframe {
+    height: 650px;
+    width: 900px;
+}
