@@ -4,4 +4,4 @@ Embedding replit pages stopped working so this placeholder website is no longer 
 Instead, the portfolio website directly points to the replit website where the code
 can be run.
 
-The code on the replit site is uploaded from <bitbucket.org:weebucket/week11-day03-python-sqlite-pandas-retro-view-to-cmd-line.git>
+The code on the replit site is uploaded from <git clone git@bitbucket.org:weebucket/python-jit-w11-d03-assignment-sqlite-pandas-retro-view-to-cmd.git>
